@@ -1,0 +1,37 @@
+*
+{
+    text-align: center;
+    transition: 0.1s;
+}
+
+#insertion
+{
+    text-align: left;
+    width: 300px;
+    border: 5px solid #007552;
+    border-radius: 20px;
+    padding: 25px;
+    margin: 25px;
+    background-color: #52a779;
+    color: white;
+}
+
+#pointing
+{
+    text-align: left;
+}
+
+#foretable
+{
+    border-collapse: collapse;
+    width: 300px;
+    border: 5px solid #007552;
+    background-color: #52a779;
+    color: white;
+}
+
+td, tr, th
+{
+    border: 5px solid #007552;
+    padding: 5px;
+}
